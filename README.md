@@ -1,0 +1,2 @@
+# Innare
+setting up git
